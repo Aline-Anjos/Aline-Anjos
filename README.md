@@ -38,30 +38,28 @@
 </div>
 
 ### Main skills:
-<div align="left"> 
-<img align="left" height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/65790175-7973-44e5-af23-f291c4708afb">
+<div align="center"> 
+<img align="center" height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/65790175-7973-44e5-af23-f291c4708afb">
 
-<img align="left" height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/ce5882d4-18ff-46b9-8890-9a75ae8f6608">
+<img align="center" height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/ce5882d4-18ff-46b9-8890-9a75ae8f6608">
 
-<img align="left"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/87319b8c-3174-45e6-86ef-2da5f71e0c96">
+<img align="center"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/87319b8c-3174-45e6-86ef-2da5f71e0c96">
 
-<img align="left"  height="70" width="70" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/5ca03d6e-25dc-437a-91d3-680a43a050ec">
+<img align="center"  height="70" width="70" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/5ca03d6e-25dc-437a-91d3-680a43a050ec">
 
-<img align="left"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/5aaa0425-86a9-4474-a2d7-61db0dfd06c4">
+<img align="center"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/5aaa0425-86a9-4474-a2d7-61db0dfd06c4">
 
-<img align="left"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/675ccd90-0931-4e7b-bc0e-e3d02a7e7c12">
+<img align="center"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/675ccd90-0931-4e7b-bc0e-e3d02a7e7c12">
 
-<img align="left"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/f49a3c0d-698d-49b0-b824-5f08f89452d8">
+<img align="center"  height="60" width="60" src="https://github.com/Aline-Anjos/Aline-Anjos/assets/102616215/f49a3c0d-698d-49b0-b824-5f08f89452d8">
 
 
 </div>
 
-<br>
-<br> 
-<br>
+
 <br>
 <br>
-<br> 
+
 
 <p align="centre"><b>Visitors Count</b></p> 
   
